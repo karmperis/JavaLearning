@@ -1,4 +1,4 @@
-package gr.aueb.cf.cf9.exercises;
+package gr.aueb.cf.java.Arrays;
 
 import java.util.Scanner;
 
