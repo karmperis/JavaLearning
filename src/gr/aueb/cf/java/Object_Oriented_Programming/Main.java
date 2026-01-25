@@ -17,6 +17,7 @@ public class Main {
         System.out.println("Book class");
         System.out.print(book1.getTitle() + " ");
         System.out.print(book1.getAuthor() + " ");
+        book1.setPages(-10);
         System.out.print(book1.getPages() + " ");
         System.out.println(Book.getTotalBooks());
 
