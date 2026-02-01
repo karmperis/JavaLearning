@@ -24,6 +24,6 @@ public class Cat  implements ISpeakable{
 
     @Override
     public void speak(){
-        System.out.println(name + " says Hi!");
+        System.out.println(name + " says: Meow!");
     }
 }
